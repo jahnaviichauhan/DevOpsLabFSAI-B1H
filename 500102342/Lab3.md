@@ -13,7 +13,7 @@ Using SSH ensures secure access to Git repositories by utilizing both public and
 ### *1. Generating an SSH Key*
 Generate an SSH key by running the following command:
 ```sh
-ssh-keygen -t ed25519 -C "saxenajaanhvii@gmail.com"
+ssh-keygen -t ed25519 -C "jahnavischauhan17@gmail.com"
 ```
 
 Verify the key is generated at the default location:
