@@ -6,7 +6,7 @@
 **Program:** B.Tech CSE (Full Stack AI) – Honours  
 **College:** UPES Dehradun  
 **Lab Title:** Jenkins-based CI/CD for Dockerized FastAPI Application  
-**Repository:** [https://github.com/jaanhvisaxena/fastapi-dockerize-jenkins-lab]
+**Repository:** [https://github.com/jahnavichauhan/fastapi-dockerize-jenkins-lab]
 
 ---
 
